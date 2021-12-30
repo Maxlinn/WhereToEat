@@ -1,2 +1,2 @@
 # WhereToEat
-Inspired by name1e5s/WhereToSleep.
+呐、今天去哪里干饭呢？
